@@ -1,4 +1,6 @@
 package com.example.lab4_team26;
 
-public class Shape {
+public abstract class Shape {
+    private int x;
+    private int y;
 }

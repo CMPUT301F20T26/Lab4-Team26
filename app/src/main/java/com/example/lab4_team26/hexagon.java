@@ -4,4 +4,5 @@ public class hexagon extends Shape
 
 {
 	private int side;
+	private String color = "Purple":
 }
